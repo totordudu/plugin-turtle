@@ -1,0 +1,12 @@
+[submodule "js/lib/jsInterpreter"]
+	path = js/lib/jsInterpreter
+	url = https://github.com/Botly-Studio/JS-Interpreter.git
+[submodule "js/lib/interpreter"]
+	path = js/lib/interpreter
+	url = https://github.com/Botly-Studio/plugin-interpreter
+[submodule "js/lib/slider"]
+	path = js/lib/slider
+	url = https://github.com/Botly-Studio/plugin-slider
+[submodule "js/lib/canvas"]
+	path = js/lib/canvas
+	url = https://github.com/Botly-Studio/plugin-canvas
