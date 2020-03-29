@@ -9,4 +9,4 @@
 	url = https://github.com/Botly-Studio/plugin-slider
 [submodule "js/lib/canvas"]
 	path = js/lib/canvas
-	url = https://github.com/Botly-Studio/plugin-canvas
+	url = https://github.com/totordudu/plugin-canvas.git
